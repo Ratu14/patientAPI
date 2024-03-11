@@ -1,5 +1,6 @@
-package com.example.patientapi;
+package com.example.patientapi.controller;
 
+import com.example.patientapi.model.patient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

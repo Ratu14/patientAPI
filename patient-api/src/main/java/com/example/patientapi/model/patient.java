@@ -1,4 +1,4 @@
-package com.example.patientapi;
+package com.example.patientapi.model;
 
 public class patient {
     private int serialNo;

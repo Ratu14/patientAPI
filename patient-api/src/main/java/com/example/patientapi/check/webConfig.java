@@ -1,4 +1,4 @@
-package com.example.patientapi;
+package com.example.patientapi.check;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
